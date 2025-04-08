@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+:root {
+    /*cores principais*/
+    --red:#E3646E;
+    --purple:#BB72E9;
+    --blue: #3996DB;
+    --green: #82BC4F;
+    --yellow: #EABD5F;
+
+    /*cores segundarias*/
+    --gray-100: #0D0E11;
+    --gray-200: #16181D;
+    --gray-300: #292C34;
+    --gray-400: #878EA1;
+    --gray-500: #C0C4CE;
+    --gray-600: #E2E4E9;
+
+    
+    /*fonts*/
+    --font-asap: Asap sans-serif;
+    --title-lg: 700px 56px/120%  var(--font-asap);
+    --title-md: 700px 24px/120% var(--font-asap);
+    --title-sm: 700px 16px/120% var(--font-asap);
+    --font-inconsolata: inconsolata sans-serif; 
+    --subtitle: 400px ;
+}
+
