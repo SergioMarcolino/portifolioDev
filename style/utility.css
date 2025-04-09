@@ -1,0 +1,11 @@
+@import url(global.css);
+.span {
+    color: var(--red);
+}
+.text-md {
+    font: var(--text-md);
+}
+.text-sm{
+    font: var(--text-sm);
+    color: var(--gray-400);
+}
