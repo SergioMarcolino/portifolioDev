@@ -9,3 +9,6 @@
     font: var(--text-sm);
     color: var(--gray-400);
 }
+.subtitle-purple {
+    color: var(--purple);
+}
